@@ -1,5 +1,8 @@
-input 
 
+## Usage/Examples
+
+```javascript
+//input 
 [
   {
     shiftSlots: [{ from: "08:30", to: "17:30" }],
@@ -13,8 +16,7 @@ input
 ]
 
 
-output
-
+//output
 [
   {
     "availableSlots": [
@@ -37,3 +39,8 @@ output
     ]
   }
 ]
+```
+
+
+
+
